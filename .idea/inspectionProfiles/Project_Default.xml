@@ -1,0 +1,26 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="admin.Admin._Base__read_users" />
+          <option value="admin.Admin._Base__write_user" />
+          <option value="admin.Admin._Base__change_active" />
+          <option value="admin.Admin._Base__change_role" />
+          <option value="admin.Admin._Base__delete_user" />
+          <option value="admin.Admin._Base__write_gift" />
+          <option value="admin.Admin._Base__change_gift" />
+          <option value="admin.Admin._Base__delete_gift" />
+          <option value="user.User._Base__read_gifts" />
+          <option value="admin.Admin._Base__read_gifts" />
+          <option value="user.User._Base__read_users" />
+          <option value="user.User._Base__change_gift" />
+          <option value="user.User._base__save" />
+          <option value="user.User._Base__save" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
